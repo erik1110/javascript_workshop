@@ -1,4 +1,5 @@
 # javascript_workshop
+## Javascript
 - Goal: learning javascript 
 - Reference: [Eloquent JavaScript](https://eloquentjavascript.net/)
 - Part 1: Language
@@ -17,8 +18,6 @@
   |11. Asynchronous Programming   |  |  
   |12. Project: A Programming Language    |   |  
 
-
-
 - Part 2: Browser
   |章節 | 筆記連結|
   | -------- | -------- |
@@ -34,4 +33,8 @@
   |章節 |筆記連結| 
   | -------- | -------- | 
   |20. Node.js|      |  
-  |21. Project: Skill-Sharing Website   |      |  
+  |21. Project: Skill-Sharing Website   |      |
+
+## D3 Module
+- Goal: learning to draw graph
+- Reference: [Using-d3](http://using-d3js.com/)
