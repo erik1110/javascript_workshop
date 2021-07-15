@@ -8,7 +8,7 @@
   |2. Program Structure     | | 
   |3. Functions   |     | 
   |4. Data Structures: Objects and Arrays     |    |  
-  |5. Higher-order Functions     |  |  
+  |5. Higher-order Functions     | [整理](https://hackmd.io/neirRb_wQ5OGAAou3DcSSw) |  
   |6. The Secret Life of Objects    |      |  
   |7. Project: A Robot   |      |  
   |8. Bugs and Errors     |   |   
@@ -22,7 +22,7 @@
 - Part 2: Browser
   |章節 | 筆記連結|
   | -------- | -------- |
-  |13. JavaScript and the Browser    |      |  
+  |13. JavaScript and the Browser    | [整理](https://hackmd.io/mMJgjSMwT5CE6GclOhGmow)   |  
   |14. The Document Object Model    |      |  
   |15. Handling Events   |      |  
   |16. Project: A Platform Game   |      |  
